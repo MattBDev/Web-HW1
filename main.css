@@ -1,0 +1,12 @@
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow:  gold 0pt 0pt 6pt;
+    font-size: 20pt;
+}
+/* Included a hidden link on the webpage. lol */
+a {
+    font-style: normal;
+    text-decoration: none;
+    color: black;
+}
