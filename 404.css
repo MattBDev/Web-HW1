@@ -3,6 +3,10 @@
         background-color: #201f1e;
         color: white;
     }
+    #emoji {
+        text-shadow: #605E5C 0px 0px 30px;
+        text-rendering: geometricPrecision;
+    }
 }
 @media (prefers-color-scheme: light) {
     html {
